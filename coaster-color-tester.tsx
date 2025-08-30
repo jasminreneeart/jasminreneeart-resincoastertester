@@ -981,7 +981,7 @@ export default function CoasterColorTester() {
                                   }}
                                 />
                                 <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-10 rounded-lg transition-all flex items-center justify-center">
-                                  <span className="text-white text-xs opacity-0 group-hover:opacity-100 transition-opacity">
+                                  <span className="text-white text-xs opacity-0 group-hover:opacity-100 transition-opacity text-center">
                                     Click to customize
                                   </span>
                                 </div>
